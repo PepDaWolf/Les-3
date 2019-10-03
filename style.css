@@ -1,0 +1,8 @@
+body { background: whitesmoke;
+    color:blue;
+    font-family: sans-serif;
+} 
+.titel {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+}
